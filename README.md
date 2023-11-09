@@ -6,4 +6,4 @@ This application shows score of kata in a karate competition.
 2. This is 5 Judges score calculation.
 <img style="width: 100%" src="https://github.com/Vishal-Kumar-Sinha/karate/blob/7cc630c67cd79106e10277fcd7e9363e5c93584c/Screenshot%20(17).png">
 3. This is 7 Judges score calculation.
-<img style="width: 100%" src="https://user-images.githubusercontent.com/107487604/233144985-adf88df6-7e48-40c5-8282-85986e68e1da.gif">
+<img style="width: 100%" src="https://github.com/Vishal-Kumar-Sinha/karate/blob/621b1ba9199a6c5cb5025ca56c57e57495d1bb5f/Screenshot%20(16).png">
